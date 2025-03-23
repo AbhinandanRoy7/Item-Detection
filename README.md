@@ -4,8 +4,6 @@ Your **README.md** file on GitHub should be **clear, structured, and informative
 
 # **🏠 Airbnb Item Detection System**
 ### **Detect missing items in an Airbnb room using YOLOv8 & FastAPI**
-![Project Banner](https://via.placeholder.com/800x300?text=Airbnb+Item+Detection+System)  
-*(Replace with an actual image or remove this line)*
 
 ---
 
