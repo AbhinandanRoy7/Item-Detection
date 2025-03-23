@@ -1,7 +1,3 @@
-Your **README.md** file on GitHub should be **clear, structured, and informative**, explaining your project, setup, and usage. Below is a **template** tailored for your **Airbnb Item Detection System** using **YOLOv8 and FastAPI**.
-
----
-
 # **🏠 Airbnb Item Detection System**
 ### **Detect missing items in an Airbnb room using YOLOv8 & FastAPI**
 
